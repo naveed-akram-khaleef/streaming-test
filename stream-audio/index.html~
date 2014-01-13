@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>test</title>
+</head>
+<body>
+
+<style type="text/css"></style>
+
+
+<audio controls="controls"  autoplay="autoplay">
+<source src="files/kamli.mp3" type="audio/mp3" />
+<source src="files/kamli.ogg" type="audio/ogg" />
+</audio>
+
+
+
+</body>
+</html>
