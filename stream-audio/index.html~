@@ -8,13 +8,13 @@
 
 <style type="text/css"></style>
 
-
+<div class="easyhtml5video">
 <audio controls="controls"  autoplay="autoplay">
 <source src="files/kamli.mp3" type="audio/mp3" />
 <source src="files/kamli.ogg" type="audio/ogg" />
 </audio>
-
-
+</div>
+<script src="files/html5ext.js" type="text/javascript"></script>
 
 </body>
 </html>
